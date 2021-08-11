@@ -1,0 +1,166 @@
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\AndroidDemo.exe.config
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Appium.Net.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Castle.Core.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Infra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Newtonsoft.Json.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\SeleniumExtras.PageObjects.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Vestris.VMWareLib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\WebDriver.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\WebDriver.Support.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Interop.VixCOM.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Castle.Core.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Infra.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Newtonsoft.Json.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\Newtonsoft.Json.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\WebDriver.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\bin\Debug\WebDriver.Support.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\Interop.AutoItX3Lib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\AndroidDemo.csproj.CoreCompileInputs.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\IViewPro\obj\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.exe.config
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Appium.Net.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Castle.Core.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Infra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Newtonsoft.Json.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\SeleniumExtras.PageObjects.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Vestris.VMWareLib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\WebDriver.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\WebDriver.Support.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Interop.VixCOM.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Castle.Core.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Infra.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\Newtonsoft.Json.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\WebDriver.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\bin\Debug\WebDriver.Support.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.csprojAssemblyReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.csproj.CoreCompileInputs.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\AndroidDemo\AndroidDemo\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.csprojAssemblyReference.cache
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.csproj.CoreCompileInputs.cache
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.exe
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.pdb
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\AndroidDemo.exe.config
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\AndroidDemo.exe
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\AndroidDemo.pdb
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Appium.Net.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Castle.Core.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Infra.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Vestris.VMWareLib.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.Support.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Interop.VixCOM.dll
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Castle.Core.xml
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.xml
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.Support.xml
+C:\Users\amirl2\Desktop\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\AndroidDemo.exe.config
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Appium.Net.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Castle.Core.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Infra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Newtonsoft.Json.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\SeleniumExtras.PageObjects.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Vestris.VMWareLib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.Support.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Interop.VixCOM.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Castle.Core.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\Newtonsoft.Json.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\bin\Debug\WebDriver.Support.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\obj\Debug\Interop.AutoItX3Lib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Amazon for parvez\AndroidDemo\obj\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\AndroidDemo.exe.config
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Appium.Net.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Castle.Core.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Infra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Newtonsoft.Json.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\SeleniumExtras.PageObjects.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Vestris.VMWareLib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\WebDriver.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\WebDriver.Support.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Interop.VixCOM.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Castle.Core.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\Newtonsoft.Json.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\WebDriver.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\bin\Debug\WebDriver.Support.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\obj\Debug\Interop.AutoItX3Lib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\obj\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Amazon\AndroidDemo\obj\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\AndroidDemo.csprojAssemblyReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\Interop.AutoItX3Lib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\AndroidDemo.exe.config
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\AndroidDemo.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\AndroidDemo.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Appium.Net.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Castle.Core.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Infra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Newtonsoft.Json.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\SeleniumExtras.PageObjects.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Vestris.VMWareLib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\WebDriver.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\WebDriver.Support.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Interop.VixCOM.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Castle.Core.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\Newtonsoft.Json.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\WebDriver.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\bin\Debug\WebDriver.Support.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\completeSolution\AndroidDemo\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Example.exe.config
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Example.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Example.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Appium.Net.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Castle.Core.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Newtonsoft.Json.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\robotestInfra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\SeleniumExtras.PageObjects.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Vestris.VMWareLib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\WebDriver.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\WebDriver.Support.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Infra.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Interop.VixCOM.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Castle.Core.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\Newtonsoft.Json.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\WebDriver.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\WebDriver.Support.xml
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\AndroidDemo.csprojAssemblyReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\Interop.AutoItX3Lib.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\AndroidDemo.csproj.ResolveComReference.cache
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\AndroidDemo.csproj.CopyComplete
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\Example.exe
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\obj\Debug\Example.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\robotestInfra.pdb
+\\SMFAMIRL2\Shared\Automation\QTP_dev_Resources\C#\Working solution\Example\AndroidDemo\bin\Debug\robotestInfra.dll.config
